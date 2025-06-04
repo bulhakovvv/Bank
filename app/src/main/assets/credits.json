@@ -1,0 +1,24 @@
+{
+  "credits": [
+    {
+      "name": "Car Loan",
+      "initial": 10000.00,
+      "remaining": 3000.00,
+      "schedule": [
+        { "date": "2023-06-01", "amount": 1000.00 },
+        { "date": "2023-07-01", "amount": 1000.00 },
+        { "date": "2023-08-01", "amount": 1000.00 }
+      ]
+    },
+    {
+      "name": "Mortgage",
+      "initial": 50000.00,
+      "remaining": 45000.00,
+      "schedule": [
+        { "date": "2023-06-01", "amount": 1000.00 },
+        { "date": "2023-07-01", "amount": 1000.00 },
+        { "date": "2023-08-01", "amount": 1000.00 }
+      ]
+    }
+  ]
+}

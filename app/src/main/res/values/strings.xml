@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">BankApp</string>
+    <!-- LoginFragment -->
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="error_invalid_login">Invalid username or password</string>
+    <!-- HomeFragment -->
+    <string name="welcome">Welcome, %1$s!</string>
+    <string name="account">Account</string>
+    <string name="transactions">Transactions</string>
+    <string name="transfer">Transfer</string>
+    <string name="credits">Credits</string>
+    <string name="settings">Settings</string>
+    <string name="profile">Profile</string>
+    <!-- AccountFragment -->
+    <string name="balance">Balance: $%1$.2f</string>
+    <string name="transaction_history">Transaction History</string>
+    <!-- TransactionsFragment -->
+    <string name="filter_by_date">Filter by date:</string>
+    <string name="filter">Filter</string>
+    <string name="filter_date_hint">Date (YYYY-MM-DD)</string>
+    <string name="no_transactions">No transactions found for the specified date.</string>
+    <!-- TransferFragment -->
+    <string name="recipient">Recipient</string>
+    <string name="amount">Amount</string>
+    <string name="send">Send</string>
+    <string name="error_no_recipient">Please enter recipient</string>
+    <string name="error_invalid_amount">Please enter a valid amount</string>
+    <string name="error_insufficient_funds">Insufficient funds</string>
+    <string name="transfer_success">Transfer completed successfully</string>
+    <!-- CreditsFragment -->
+    <string name="payment_schedule">Payment Schedule:</string>
+    <string name="initial_amount">Initial: $%1$.2f</string>
+    <string name="remaining_amount">Remaining: $%1$.2f</string>
+    <!-- SettingsFragment -->
+    <string name="theme">Theme</string>
+    <string name="light">Light</string>
+    <string name="dark">Dark</string>
+    <string name="language">Language</string>
+    <string name="english">English</string>
+    <string name="ukrainian">Ukrainian</string>
+    <!-- UserProfileFragment -->
+    <string name="name">Name</string>
+    <string name="phone">Phone</string>
+    <string name="address">Address</string>
+    <string name="save">Save</string>
+    <string name="error_no_name">Please enter a name</string>
+    <string name="error_no_phone">Please enter a phone number</string>
+    <string name="profile_saved">Profile updated successfully</string>
+</resources>
